@@ -1,0 +1,8 @@
+dist/
+site.tar.gz
+
+node_modules/
+server/private/
+.env
+.env.*
+!.env.example
